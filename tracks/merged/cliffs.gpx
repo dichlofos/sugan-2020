@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<trk>
+		<name>лбы3</name>
+		<trkseg>
+			<trkpt lat="42.966137" lon="43.231526"><ele>2714.1</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.966094" lon="43.231268"><ele>2694.3</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.966159" lon="43.231075"><ele>2677.5</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.966588" lon="43.230903"><ele>2655.7</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.966767" lon="43.230295"><ele>2631.5</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.966959" lon="43.230359"><ele>2629.4</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.967085" lon="43.230300"><ele>2625.3</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.966953" lon="43.230002"><ele>2619.6</ele><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="GPX Editor 1.7.15.1743" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+	<link href="http://www.garmin.com">
+		<text>Garmin International</text>
+	</link>
+	<time>2020-08-16T04:02:03Z</time>
+	<bounds minlat="43.261941" minlon="42.455898" maxlat="43.43503" maxlon="42.642365" />
+</metadata>
+<wpt lat="43.261941" lon="42.642365">
+	<ele>1882.745239</ele>
+	<time>2020-08-11T04:00:46Z</time>
+	<name>118</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.263964" lon="42.635597">
+	<ele>1952.938599</ele>
+	<time>2020-08-11T04:19:56Z</time>
+	<name>119</name>
+	<cmt>НАРЗАН</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.267394" lon="42.632509">
+	<ele>2159.760254</ele>
+	<time>2020-08-11T05:05:01Z</time>
+	<name>120</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.274663" lon="42.618506">
+	<ele>2233.399902</ele>
+	<time>2020-08-11T06:04:26Z</time>
+	<name>121</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.283606" lon="42.607302">
+	<ele>2291.971191</ele>
+	<time>2020-08-11T06:36:58Z</time>
+	<name>122</name>
+	<cmt>КОШ</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.286396" lon="42.604054">
+	<ele>2334.435303</ele>
+	<time>2020-08-11T06:52:25Z</time>
+	<name>123</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.291757" lon="42.594257">
+	<ele>2369.468506</ele>
+	<time>2020-08-11T07:33:04Z</time>
+	<name>124</name>
+	<cmt>ДРОВА</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.296724" lon="42.589647">
+	<ele>2545.560059</ele>
+	<time>2020-08-11T08:00:41Z</time>
+	<name>125</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.301373" lon="42.587741">
+	<ele>2639.905518</ele>
+	<time>2020-08-11T08:27:59Z</time>
+	<name>126</name>
+	<cmt>ОБЕД11</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.314023" lon="42.585861">
+	<ele>2801.768555</ele>
+	<time>2020-08-11T10:51:17Z</time>
+	<name>127</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.321178" lon="42.573813">
+	<ele>2925.501221</ele>
+	<time>2020-08-11T11:27:39Z</time>
+	<name>128</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.327805" lon="42.566113">
+	<ele>3097.052246</ele>
+	<time>2020-08-11T12:32:33Z</time>
+	<name>129</name>
+	<cmt>НОЧ11</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.334785" lon="42.554888">
+	<ele>3241.030518</ele>
+	<time>2020-08-12T03:40:31Z</time>
+	<name>130</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.340471" lon="42.544668">
+	<ele>3431.902588</ele>
+	<time>2020-08-12T04:35:28Z</time>
+	<name>131</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.34345" lon="42.541781">
+	<ele>3547.844238</ele>
+	<time>2020-08-12T05:03:50Z</time>
+	<name>132</name>
+	<cmt>СТОЯН</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.344425" lon="42.540981">
+	<ele>3612.691406</ele>
+	<time>2020-08-12T05:22:36Z</time>
+	<name>133</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.350879" lon="42.530252">
+	<ele>3475.530029</ele>
+	<time>2020-08-12T06:49:26Z</time>
+	<name>134</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.353142" lon="42.522934">
+	<ele>3572.610352</ele>
+	<time>2020-08-12T07:40:41Z</time>
+	<name>135</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.358849" lon="42.515126">
+	<ele>3613.970703</ele>
+	<time>2020-08-12T08:34:34Z</time>
+	<name>136</name>
+	<cmt>ОБЕД12</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.360539" lon="42.514628">
+	<ele>3598.008057</ele>
+	<time>2020-08-12T10:16:22Z</time>
+	<name>137</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.368533" lon="42.504402">
+	<ele>3740.455811</ele>
+	<time>2020-08-12T11:27:15Z</time>
+	<name>138</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.370703" lon="42.495543">
+	<ele>3842.634277</ele>
+	<time>2020-08-12T12:13:15Z</time>
+	<name>139</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.379276" lon="42.485871">
+	<ele>3816.684082</ele>
+	<time>2020-08-12T12:53:02Z</time>
+	<name>140</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.383639" lon="42.478055">
+	<ele>3884.570557</ele>
+	<time>2020-08-12T13:40:46Z</time>
+	<name>141</name>
+	<cmt>НОЧ12</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.379366" lon="42.474584">
+	<ele>4021.207031</ele>
+	<time>2020-08-13T04:39:39Z</time>
+	<name>142</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.376242" lon="42.471731">
+	<ele>4200.164551</ele>
+	<time>2020-08-13T05:27:06Z</time>
+	<name>143</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.372606" lon="42.46784">
+	<ele>4412.227539</ele>
+	<time>2020-08-13T06:18:43Z</time>
+	<name>144</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.369553" lon="42.466127">
+	<ele>4565.714355</ele>
+	<time>2020-08-13T07:19:50Z</time>
+	<name>145</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.366787" lon="42.464799">
+	<ele>4696.153809</ele>
+	<time>2020-08-13T08:06:57Z</time>
+	<name>146</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.365038" lon="42.464282">
+	<ele>4774.621094</ele>
+	<time>2020-08-13T08:43:43Z</time>
+	<name>147</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.364299" lon="42.46514">
+	<ele>4820.059082</ele>
+	<time>2020-08-13T09:07:19Z</time>
+	<name>148</name>
+	<cmt>НОЧ13</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.350632" lon="42.455898">
+	<ele>5540.500977</ele>
+	<time>2020-08-14T05:44:12Z</time>
+	<name>149</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.372612" lon="42.467826">
+	<ele>4435.913086</ele>
+	<time>2020-08-14T12:12:11Z</time>
+	<name>150</name>
+	<cmt>ПОВОР КАМЕНЬ</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.381743" lon="42.475403">
+	<ele>3944.266113</ele>
+	<time>2020-08-14T12:58:41Z</time>
+	<name>151</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.387676" lon="42.477393">
+	<ele>3760.697998</ele>
+	<time>2020-08-14T13:41:06Z</time>
+	<name>152</name>
+	<cmt>НОЧ14</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.392225" lon="42.479072">
+	<ele>3644.705322</ele>
+	<time>2020-08-15T04:46:42Z</time>
+	<name>153</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.402272" lon="42.499237">
+	<ele>3234.399414</ele>
+	<time>2020-08-15T05:37:05Z</time>
+	<name>154</name>
+	<cmt>ГРИБЫ</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.405436" lon="42.501679">
+	<ele>3124.476562</ele>
+	<time>2020-08-15T06:22:50Z</time>
+	<name>155</name>
+	<cmt>ПОЛЯНА</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.413027" lon="42.49442">
+	<ele>2889.810059</ele>
+	<time>2020-08-16T04:02:03Z</time>
+	<name>156</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.427717" lon="42.507073">
+	<ele>2616.292969</ele>
+	<time>2020-08-16T04:35:35Z</time>
+	<name>157</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.429847" lon="42.512589">
+	<ele>2577.714111</ele>
+	<time>2020-08-16T04:57:07Z</time>
+	<name>158</name>
+	<cmt>ЭМАН</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.43503" lon="42.529565">
+	<ele>2549.025879</ele>
+	<time>2020-08-16T05:27:19Z</time>
+	<name>159</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="43.433522" lon="42.535613">
+	<ele>2366.512939</ele>
+	<time>2020-08-16T06:02:11Z</time>
+	<name>160</name>
+	<cmt>ДЖИЛ</cmt>
+	<sym>Flag, Blue</sym>
+</wpt>
+
+</gpx>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="GPX Editor 1.7.15.1743" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+	<bounds minlat="42.579363" minlon="43.078404" maxlat="43.112629" maxlon="43.487601" />
+</metadata>
+<wpt lat="43.104625" lon="43.43252">
+	<name>1В.БАЛКАРИЯ</name>
+</wpt>
+<wpt lat="43.101428" lon="43.438142">
+	<name>1.1СБОР</name>
+</wpt>
+<wpt lat="43.100205" lon="43.445652">
+	<name>1.2БЕСЕДКА</name>
+</wpt>
+<wpt lat="43.088103" lon="43.443935">
+	<name>1.3МОСТ</name>
+</wpt>
+<wpt lat="43.086729" lon="43.443613">
+	<name>1.4ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="42.982917" lon="43.465522">
+	<name>6.1</name>
+</wpt>
+<wpt lat="42.983132" lon="43.462324">
+	<name>6.2СВЯЗКИ</name>
+</wpt>
+<wpt lat="42.983153" lon="43.458097">
+	<name>6.3ПЕРИЛА</name>
+</wpt>
+<wpt lat="42.984805" lon="43.457389">
+	<name>6.4ПЕРЕВАП МОРИСА ТОРЕЗА</name>
+</wpt>
+<wpt lat="42.990406" lon="43.452647">
+	<name>6.5</name>
+</wpt>
+<wpt lat="42.994869" lon="43.450244">
+	<name>6.6</name>
+</wpt>
+<wpt lat="42.989934" lon="43.441189">
+	<name>6.8</name>
+</wpt>
+<wpt lat="42.984419" lon="43.43945">
+	<name>6.9</name>
+</wpt>
+<wpt lat="42.983711" lon="43.437519">
+	<name>6.10ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="43.011542" lon="43.484554">
+	<name>5.1</name>
+</wpt>
+<wpt lat="43.008688" lon="43.486872">
+	<name>5.2</name>
+</wpt>
+<wpt lat="43.003967" lon="43.486314">
+	<name>5.3</name>
+</wpt>
+<wpt lat="42.997101" lon="43.486357">
+	<name>5.4</name>
+</wpt>
+<wpt lat="42.989118" lon="43.485692">
+	<name>5.5</name>
+</wpt>
+<wpt lat="42.981651" lon="43.487601">
+	<name>5.6КОШКИ</name>
+</wpt>
+<wpt lat="42.980728" lon="43.48361">
+	<name>5.7ОБЕД</name>
+</wpt>
+<wpt lat="42.981394" lon="43.481915">
+	<name>5.8</name>
+</wpt>
+<wpt lat="42.980793" lon="43.478868">
+	<name>5.9КОШКИ-СВЯЗКИ</name>
+</wpt>
+<wpt lat="42.980535" lon="43.475306">
+	<name>5.10</name>
+</wpt>
+<wpt lat="42.980535" lon="43.475306">
+	<name>5.11</name>
+</wpt>
+<wpt lat="42.981608" lon="43.467946">
+	<name>5.12ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="43.004203" lon="43.434859">
+	<name>4.2</name>
+</wpt>
+<wpt lat="43.001607" lon="43.43782">
+	<name>4.3РОВН.МЕСТО</name>
+</wpt>
+<wpt lat="42.999783" lon="43.438678">
+	<name>4.4</name>
+</wpt>
+<wpt lat="42.998924" lon="43.439536">
+	<name>4.5КОШКИ</name>
+</wpt>
+<wpt lat="42.998023" lon="43.440008">
+	<name>4.6</name>
+</wpt>
+<wpt lat="42.997358" lon="43.441017">
+	<name>4.7ОСЫПНОЙ1Б</name>
+</wpt>
+<wpt lat="42.99635" lon="43.444901">
+	<name>4.8ОБЕД</name>
+</wpt>
+<wpt lat="42.996285" lon="43.444815">
+	<name>4.8ЗАБРОСКА</name>
+</wpt>
+<wpt lat="43.008323" lon="43.456767">
+	<name>4.9КОНЕЦ ЛЕДНИКА</name>
+</wpt>
+<wpt lat="43.013666" lon="43.468762">
+	<name>4.10</name>
+</wpt>
+<wpt lat="43.018301" lon="43.474663">
+	<name>4.12</name>
+</wpt>
+<wpt lat="43.018859" lon="43.483567">
+	<name>4.13ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="43.015855" lon="43.427735">
+	<name>3.1</name>
+</wpt>
+<wpt lat="42.993345" lon="43.425353">
+	<name>3.2</name>
+</wpt>
+<wpt lat="42.983282" lon="43.423894">
+	<name>3.4КОШКИ</name>
+</wpt>
+<wpt lat="42.980471" lon="43.423786">
+	<name>3.5-3.7ОБЕД</name>
+</wpt>
+<wpt lat="42.980642" lon="43.4234">
+	<name>3.8ЗАБРОСКА</name>
+</wpt>
+<wpt lat="42.989354" lon="43.425374">
+	<name>3.9</name>
+</wpt>
+<wpt lat="42.990019" lon="43.425718">
+	<name>3-ГОЛУБОЙ ЛЁД2</name>
+</wpt>
+<wpt lat="42.990298" lon="43.426082">
+	<name>3ГОПУБОЙ ЛЁД</name>
+</wpt>
+<wpt lat="42.998517" lon="43.426984">
+	<name>3.10</name>
+</wpt>
+<wpt lat="43.074863" lon="43.444128">
+	<name>2.1</name>
+</wpt>
+<wpt lat="43.063405" lon="43.441532">
+	<name>2.2</name>
+</wpt>
+<wpt lat="43.051732" lon="43.435631">
+	<name>2.3</name>
+</wpt>
+<wpt lat="43.038085" lon="43.431018">
+	<name>2.4</name>
+</wpt>
+<wpt lat="43.029652" lon="43.426597">
+	<name>2.5</name>
+</wpt>
+<wpt lat="43.023966" lon="43.428786">
+	<name>2.6</name>
+</wpt>
+<wpt lat="43.018151" lon="43.428486">
+	<name>2.7</name>
+</wpt>
+<wpt lat="43.016412" lon="43.427863">
+	<name>2.8ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="42.982853" lon="43.438056">
+	<name>7.1ПЕРЕВАЛ ШЕСТИ</name>
+</wpt>
+<wpt lat="42.981179" lon="43.436125">
+	<name>7.2КОШКИ</name>
+</wpt>
+<wpt lat="42.980235" lon="43.434344">
+	<name>7.4В</name>
+</wpt>
+<wpt lat="42.980299" lon="43.434065">
+	<name>7.5В</name>
+</wpt>
+<wpt lat="42.980535" lon="43.433786">
+	<name>7.6В</name>
+</wpt>
+<wpt lat="42.980728" lon="43.433442">
+	<name>7.7В</name>
+</wpt>
+<wpt lat="42.9809" lon="43.432949">
+	<name>7.8В</name>
+</wpt>
+<wpt lat="42.981115" lon="43.432734">
+	<name>001</name>
+</wpt>
+<wpt lat="42.981115" lon="43.432734">
+	<name>7.9В</name>
+</wpt>
+<wpt lat="42.981351" lon="43.43091">
+	<name>7.10</name>
+</wpt>
+<wpt lat="42.980685" lon="43.423443">
+	<name>7.11ОБЕД</name>
+</wpt>
+<wpt lat="42.980685" lon="43.423443">
+	<name>002</name>
+</wpt>
+<wpt lat="42.979098" lon="43.42237">
+	<name>003</name>
+</wpt>
+<wpt lat="42.979055" lon="43.422413">
+	<name>7.12КОШКИ</name>
+</wpt>
+<wpt lat="42.974827" lon="43.416727">
+	<name>7.14ПЕРЕВАП РЦЫВАШКИ</name>
+</wpt>
+<wpt lat="42.972467" lon="43.41662">
+	<name>7.15</name>
+</wpt>
+<wpt lat="42.972102" lon="43.40735">
+	<name>7.16</name>
+</wpt>
+<wpt lat="42.966502" lon="43.402157">
+	<name>7.17</name>
+</wpt>
+<wpt lat="42.963412" lon="43.392844">
+	<name>7.18</name>
+</wpt>
+<wpt lat="42.951052" lon="43.374584">
+	<name>8.1</name>
+</wpt>
+<wpt lat="42.955065" lon="43.340445">
+	<name>8.2</name>
+</wpt>
+<wpt lat="42.974549" lon="43.335209">
+	<name>8.3НАРЗАН</name>
+</wpt>
+<wpt lat="42.984505" lon="43.326733">
+	<name>8.4УШТУЛУ</name>
+</wpt>
+<wpt lat="42.983818" lon="43.328085">
+	<name>004</name>
+</wpt>
+<wpt lat="42.98384" lon="43.328085">
+	<name>8.5ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="43.00725" lon="43.314116">
+	<name>005</name>
+</wpt>
+<wpt lat="42.978625" lon="43.332012">
+	<name>9.1</name>
+</wpt>
+<wpt lat="42.963991" lon="43.334093">
+	<name>9.2</name>
+</wpt>
+<wpt lat="42.955022" lon="43.333364">
+	<name>9.3П</name>
+</wpt>
+<wpt lat="42.949314" lon="43.331454">
+	<name>9.4ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="42.987852" lon="43.185134">
+	<name>13.1</name>
+</wpt>
+<wpt lat="42.988689" lon="43.185177">
+	<name>13.2</name>
+</wpt>
+<wpt lat="42.994912" lon="43.180177">
+	<name>13.3</name>
+</wpt>
+<wpt lat="42.999869" lon="43.178203">
+	<name>13.4</name>
+</wpt>
+<wpt lat="43.00416" lon="43.170371">
+	<name>13.5</name>
+</wpt>
+<wpt lat="43.002551" lon="43.158076">
+	<name>13.6</name>
+</wpt>
+<wpt lat="43.006778" lon="43.14709">
+	<name>13.7</name>
+</wpt>
+<wpt lat="43.010962" lon="43.136554">
+	<name>13.8</name>
+</wpt>
+<wpt lat="43.011456" lon="43.136983">
+	<name>13.9ОБЕД</name>
+</wpt>
+<wpt lat="43.01431" lon="43.134172">
+	<name>13.10ПЕРЕВАЛ ДЫХНИАУШ</name>
+</wpt>
+<wpt lat="43.015983" lon="43.13164">
+	<name>13.11ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="42.965579" lon="43.231676">
+	<name>12.1ОЗЕРО</name>
+</wpt>
+<wpt lat="42.96691" lon="43.230002">
+	<name>12.2</name>
+</wpt>
+<wpt lat="42.970944" lon="43.228135">
+	<name>12.3</name>
+</wpt>
+<wpt lat="42.974935" lon="43.22762">
+	<name>12.4ОБЕД</name>
+</wpt>
+<wpt lat="42.978754" lon="43.220647">
+	<name>12.5</name>
+</wpt>
+<wpt lat="42.983518" lon="43.220604">
+	<name>12.6</name>
+</wpt>
+<wpt lat="42.989526" lon="43.209317">
+	<name>12.7</name>
+</wpt>
+<wpt lat="42.986307" lon="43.194576">
+	<name>12.8</name>
+</wpt>
+<wpt lat="42.986157" lon="43.184447">
+	<name>12.9ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="42.937277" lon="43.238478">
+	<name>11.1</name>
+</wpt>
+<wpt lat="42.937749" lon="43.235903">
+	<name>11.2ПЕРЕВАП ФЫНТАРГИН</name>
+</wpt>
+<wpt lat="42.937985" lon="43.235645">
+	<name>11В2</name>
+</wpt>
+<wpt lat="42.938307" lon="43.235431">
+	<name>11.В3</name>
+</wpt>
+<wpt lat="42.938714" lon="43.234937">
+	<name>11.В5</name>
+</wpt>
+<wpt lat="42.9388" lon="43.23498">
+	<name>11.В6</name>
+</wpt>
+<wpt lat="42.939787" lon="43.234165">
+	<name>11.8</name>
+</wpt>
+<wpt lat="42.941632" lon="43.232963">
+	<name>11.9</name>
+</wpt>
+<wpt lat="42.94734" lon="43.225067">
+	<name>11.10ОБЕД</name>
+</wpt>
+<wpt lat="42.95794" lon="43.230624">
+	<name>11.11</name>
+</wpt>
+<wpt lat="42.961073" lon="43.232942">
+	<name>11.12ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="42.579363" lon="43.139">
+	<name>ОЗ ОТЧ</name>
+</wpt>
+<wpt lat="42.965601" lon="43.231676">
+	<name>009ОЗ</name>
+</wpt>
+<wpt lat="42.944422" lon="43.326433">
+	<name>10.1</name>
+</wpt>
+<wpt lat="42.944658" lon="43.324008">
+	<name>10.2</name>
+</wpt>
+<wpt lat="42.944572" lon="43.323922">
+	<name>006</name>
+</wpt>
+<wpt lat="42.946031" lon="43.317228">
+	<name>10.3ПЕРЕВАЛ КУРОРТНЫЙ</name>
+</wpt>
+<wpt lat="42.939701" lon="43.312657">
+	<name>10.4</name>
+</wpt>
+<wpt lat="42.937942" lon="43.308709">
+	<name>10.5</name>
+</wpt>
+<wpt lat="42.934573" lon="43.29725">
+	<name>10.6</name>
+</wpt>
+<wpt lat="42.934616" lon="43.297186">
+	<name>007</name>
+</wpt>
+<wpt lat="42.933371" lon="43.29268">
+	<name>10.7ОБВЯЗКИ</name>
+</wpt>
+<wpt lat="42.933285" lon="43.291156">
+	<name>10.8ОБЕД</name>
+</wpt>
+<wpt lat="42.933264" lon="43.291092">
+	<name>008</name>
+</wpt>
+<wpt lat="42.93174" lon="43.280642">
+	<name>10.9</name>
+</wpt>
+<wpt lat="42.931655" lon="43.272317">
+	<name>10.10СВЯЗКИ</name>
+</wpt>
+<wpt lat="42.937277" lon="43.272102">
+	<name>10.11</name>
+</wpt>
+<wpt lat="42.937706" lon="43.262038">
+	<name>10.12</name>
+</wpt>
+<wpt lat="42.936654" lon="43.254979">
+	<name>10.13</name>
+</wpt>
+<wpt lat="42.934938" lon="43.249078">
+	<name>10.14ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="43.02167" lon="43.123615">
+	<name>14.1</name>
+</wpt>
+<wpt lat="43.023451" lon="43.114152">
+	<name>14.2</name>
+</wpt>
+<wpt lat="43.031991" lon="43.105741">
+	<name>14.3</name>
+</wpt>
+<wpt lat="43.042784" lon="43.079734">
+	<name>14.4ОБЕД</name>
+</wpt>
+<wpt lat="43.051667" lon="43.078404">
+	<name>14.5</name>
+</wpt>
+<wpt lat="43.072159" lon="43.086708">
+	<name>009</name>
+</wpt>
+<wpt lat="43.072159" lon="43.086708">
+	<name>14.6</name>
+</wpt>
+<wpt lat="43.081923" lon="43.102265">
+	<name>14.7</name>
+</wpt>
+<wpt lat="43.095634" lon="43.121576">
+	<name>14.8</name>
+</wpt>
+<wpt lat="43.096278" lon="43.123186">
+	<name>14.9ЛАГЕРЬ</name>
+</wpt>
+<wpt lat="43.112629" lon="43.14106">
+	<name>15.1</name>
+</wpt>
+<wpt lat="43.112028" lon="43.147862">
+	<name>15.2</name>
+</wpt>
+
+</gpx>
