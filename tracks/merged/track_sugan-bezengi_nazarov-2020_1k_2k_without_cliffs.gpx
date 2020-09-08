@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="GPS Track Editor" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gte="http://www.gpstrackeditor.com/xmlschemas/General/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" targetNamespace="http://www.topografix.com/GPX/1/1" elementFormDefault="qualified" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
-	<name>sugan3.gpx</name>
+	<name>2020_nazarov_sugan-bezengi_1k_2k.gpx</name>
 </metadata>
 <trk>
-	<name>2020-07-26 15:17:33 Авто</name>
+	<name>2020_nazarov_sugan-bezengi_1k_2k</name>
 	<trkseg>
 		<trkpt lat="43.104609" lon="43.432600">
 			<ele>1154.12</ele>
