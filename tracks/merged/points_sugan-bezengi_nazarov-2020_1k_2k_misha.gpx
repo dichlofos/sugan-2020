@@ -10,8 +10,7 @@
 <wpt lat="43.104611" lon="43.432588">
 	<ele>1174.131104</ele>
 	<time>2020-07-26T12:18:21Z</time>
-	<name>001</name>
-	<cmt>СТАРТ</cmt>
+	<name>001.START</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.101442" lon="43.43811">
@@ -29,8 +28,7 @@
 <wpt lat="43.086711" lon="43.443568">
 	<ele>1625.234253</ele>
 	<time>2020-07-26T14:59:20Z</time>
-	<name>004</name>
-	<cmt>НОЧ26</cmt>
+	<name>004.MN.26.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.074898" lon="43.444117">
@@ -42,8 +40,7 @@
 <wpt lat="43.063379" lon="43.441604">
 	<ele>1936.790039</ele>
 	<time>2020-07-27T04:27:29Z</time>
-	<name>006</name>
-	<cmt>КОШ2</cmt>
+	<name>006.KOSH.2</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.051724" lon="43.435637">
@@ -79,8 +76,7 @@
 <wpt lat="43.015771" lon="43.427866">
 	<ele>2636.667969</ele>
 	<time>2020-07-27T08:47:01Z</time>
-	<name>012</name>
-	<cmt>НОЧ27</cmt>
+	<name>012.MN.27.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.00469" lon="43.43031">
@@ -92,8 +88,7 @@
 <wpt lat="43.001867" lon="43.429964">
 	<ele>2814.177002</ele>
 	<time>2020-07-28T03:44:22Z</time>
-	<name>014</name>
-	<cmt>НОЧ</cmt>
+	<name>014.MN.28.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.993365" lon="43.425353">
@@ -105,15 +100,13 @@
 <wpt lat="42.983194" lon="43.423911">
 	<ele>3224.638672</ele>
 	<time>2020-07-28T05:58:42Z</time>
-	<name>016</name>
-	<cmt>КОШ</cmt>
+	<name>016.KOSHKI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.980698" lon="43.423395">
 	<ele>3324.914062</ele>
 	<time>2020-07-28T10:13:18Z</time>
-	<name>017</name>
-	<cmt>ЗАБР1</cmt>
+	<name>017.ZABROS.1</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.998476" lon="43.427019">
@@ -143,8 +136,7 @@
 <wpt lat="42.998746" lon="43.439193">
 	<ele>3286.279541</ele>
 	<time>2020-07-29T06:32:01Z</time>
-	<name>022</name>
-	<cmt>КОШ</cmt>
+	<name>022.KOSHKI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.997547" lon="43.440402">
@@ -156,36 +148,31 @@
 <wpt lat="42.997393" lon="43.441045">
 	<ele>3470.127441</ele>
 	<time>2020-07-29T08:25:34Z</time>
-	<name>024</name>
-	<cmt>ОСЫП</cmt>
+	<name>024.OSYPN</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.99636" lon="43.444926">
 	<ele>3449.421143</ele>
 	<time>2020-07-29T08:55:23Z</time>
-	<name>025</name>
-	<cmt>ОБЕД29ЗАБР</cmt>
+	<name>025.OBED.29.07.ZABROS</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.008225" lon="43.456758">
 	<ele>3096.014404</ele>
 	<time>2020-07-29T11:06:03Z</time>
-	<name>026</name>
-	<cmt>КОШ АУТ</cmt>
+	<name>026.KOSHKI.OFF</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.013386" lon="43.466496">
 	<ele>3009.150146</ele>
 	<time>2020-07-29T11:53:53Z</time>
-	<name>027</name>
-	<cmt>НОЧЁ</cmt>
+	<name>027.MN.29.07???</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.013083" lon="43.467963">
 	<ele>3000.015869</ele>
 	<time>2020-07-29T13:11:16Z</time>
-	<name>028</name>
-	<cmt>БРОД</cmt>
+	<name>028.BROD</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.018098" lon="43.47478">
@@ -197,8 +184,7 @@
 <wpt lat="43.018856" lon="43.483002">
 	<ele>2559.669434</ele>
 	<time>2020-07-29T14:27:06Z</time>
-	<name>030</name>
-	<cmt>НОЧ29</cmt>
+	<name>030.MN.29.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="43.011494" lon="43.484358">
@@ -234,15 +220,13 @@
 <wpt lat="42.981759" lon="43.487651">
 	<ele>3025.805908</ele>
 	<time>2020-07-30T07:40:40Z</time>
-	<name>036</name>
-	<cmt>КОШКИ</cmt>
+	<name>036.KOSHKI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.980705" lon="43.483636">
 	<ele>3131.461914</ele>
 	<time>2020-07-30T08:29:12Z</time>
-	<name>037</name>
-	<cmt>ОБЕД29</cmt>
+	<name>037.OBED.30.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.98139" lon="43.482003">
@@ -254,8 +238,7 @@
 <wpt lat="42.980793" lon="43.478892">
 	<ele>3286.799805</ele>
 	<time>2020-07-30T11:25:05Z</time>
-	<name>039</name>
-	<cmt>КОШКИ</cmt>
+	<name>039.KOSHKI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.98056" lon="43.475288">
@@ -267,8 +250,7 @@
 <wpt lat="42.981499" lon="43.467905">
 	<ele>3453.056152</ele>
 	<time>2020-07-30T13:38:57Z</time>
-	<name>041</name>
-	<cmt>НОЧ30</cmt>
+	<name>041.MN.30.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.982989" lon="43.465391">
@@ -280,8 +262,7 @@
 <wpt lat="42.983154" lon="43.462343">
 	<ele>3633.076904</ele>
 	<time>2020-07-31T02:44:45Z</time>
-	<name>043</name>
-	<cmt>СВЯЗ</cmt>
+	<name>043.SVYAZKI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.982893" lon="43.458963">
@@ -293,8 +274,7 @@
 <wpt lat="42.984808" lon="43.457401">
 	<ele>3882.865967</ele>
 	<time>2020-07-31T06:24:42Z</time>
-	<name>045</name>
-	<cmt>МОРИС</cmt>
+	<name>045.MORISA.TOREZA</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.990374" lon="43.452684">
@@ -306,15 +286,13 @@
 <wpt lat="42.994866" lon="43.450354">
 	<ele>3528.253174</ele>
 	<time>2020-07-31T08:24:23Z</time>
-	<name>047</name>
-	<cmt>СВ АУТ</cmt>
+	<name>047.SVYAZKI.OFF</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.996358" lon="43.44495">
 	<ele>3459.761475</ele>
 	<time>2020-07-31T08:35:44Z</time>
-	<name>048</name>
-	<cmt>ОБЕД31</cmt>
+	<name>048.OBED.31.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.989921" lon="43.441247">
@@ -326,50 +304,43 @@
 <wpt lat="42.984337" lon="43.439422">
 	<ele>3727.358887</ele>
 	<time>2020-07-31T11:18:34Z</time>
-	<name>050</name>
-	<cmt>КОШ АУТ</cmt>
+	<name>050.KOSHKI.OFF</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.983713" lon="43.437578">
 	<ele>3758.074951</ele>
 	<time>2020-07-31T11:49:17Z</time>
-	<name>051</name>
-	<cmt>НОЧ31</cmt>
+	<name>051.MN.31.07</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.982859" lon="43.438114">
 	<ele>3767.95752</ele>
 	<time>2020-08-01T03:28:18Z</time>
-	<name>052</name>
-	<cmt>ШЕСТИ</cmt>
+	<name>052.SHESTI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.981461" lon="43.431021">
 	<ele>3432.375244</ele>
 	<time>2020-08-01T09:01:06Z</time>
-	<name>053</name>
-	<cmt>СПУСК</cmt>
+	<name>053.SPUSK</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.980706" lon="43.42346">
 	<ele>3322.956299</ele>
 	<time>2020-08-01T09:41:19Z</time>
-	<name>054</name>
-	<cmt>ОБЕД1</cmt>
+	<name>054.OBED.01.08</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.978942" lon="43.422393">
 	<ele>3365.153076</ele>
 	<time>2020-08-01T11:29:39Z</time>
-	<name>055</name>
-	<cmt>КОШКИ</cmt>
+	<name>055.KOSHKI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.974883" lon="43.41669">
 	<ele>3587.666992</ele>
 	<time>2020-08-01T12:35:07Z</time>
-	<name>056</name>
-	<cmt>РЦЫВАШКИ</cmt>
+	<name>056.RCYVASHKI</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.972436" lon="43.416585">
