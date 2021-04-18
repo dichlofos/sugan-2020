@@ -390,22 +390,19 @@
 <wpt lat="42.974268" lon="43.335706">
 	<ele>2019.360718</ele>
 	<time>2020-08-02T07:00:19Z</time>
-	<name>064</name>
-	<cmt>НАРЗАН</cmt>
+	<name>064.NARZAN</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.98469" lon="43.326853">
 	<ele>1855.388916</ele>
 	<time>2020-08-02T07:37:48Z</time>
-	<name>065</name>
-	<cmt>ТУРБАЗА</cmt>
+	<name>065.TURBAZA</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.983902" lon="43.328232">
 	<ele>1876.013062</ele>
 	<time>2020-08-02T07:54:34Z</time>
-	<name>066</name>
-	<cmt>СТОЯН</cmt>
+	<name>066.STOYAN</name>
 	<sym>Flag, Blue</sym>
 </wpt>
 <wpt lat="42.963935" lon="43.333994">
